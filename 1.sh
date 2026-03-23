@@ -2,7 +2,7 @@
 #!/bin/bash
 
 echo ""
-echo -e "\e[32mStarting... \e[0m"
+echo -e "\e[32mStarting BennyBoy10... \e[0m"
 echo ""
 
 git add .
